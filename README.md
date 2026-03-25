@@ -20,7 +20,6 @@
 <p>
 I am a Computer Science student focused on building practical, logic driven solutions that address real world problems. My work emphasizes strong fundamentals, clean system design, and meaningful user experiences.<br><br>I enjoy developing projects that integrate problem solving, structured thinking, and applied concepts into complete working systems. My current focus is on creating a small set of high quality projects that demonstrate depth of understanding, real use cases, and thoughtful implementation.<br><br>Alongside project development, I am actively upskilling myself to strengthen my technical foundation, improve architectural thinking, and prepare for industry level responsibilities.<br><br>My goal is to grow into a well rounded engineer by consistently refining my skills and delivering solutions that are reliable, relevant, and impactful.</p>
 
-<div>
 ```js
 const Jatin = {
     title: "Developer / Computer Science Engineer",
@@ -35,7 +34,6 @@ const Jatin = {
     openFor: "Collaborations and Internships"
 };
 ```
-</div>
 
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR4eXhzaHgyNW9jczUzNGZpNDNucDlidjE2eW9jZ211MWNqYmluZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360"/>
 
