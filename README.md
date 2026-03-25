@@ -13,7 +13,7 @@
 
 <img align="right" 
      alt="Jatin Solanki" 
-     width="260" 
+     width="360" 
      style="border-radius: 20px; margin-left: 20px;" 
      src="https://github.com/Solanki-Jatin/Solanki-Jatin/raw/main/trophy_selfie">
      
