@@ -11,17 +11,22 @@
 
 ## 💫 About Me 
 
-<img align="right" 
-     alt="Jatin Solanki" 
-     width="360" 
-     style="border-radius: 20px; margin-left: 20px;" 
-     src="https://github.com/Solanki-Jatin/Solanki-Jatin/raw/main/trophy_selfie">
-     
-<p>
-I am a Computer Science student focused on building practical, logic driven solutions that address real world problems. My work emphasizes strong fundamentals, clean system design, and meaningful user experiences.<br><br>I enjoy developing projects that integrate problem solving, structured thinking, and applied concepts into complete working systems. My current focus is on creating a small set of high quality projects that demonstrate depth of understanding, real use cases, and thoughtful implementation.<br><br>Alongside project development, I am actively upskilling myself to strengthen my technical foundation, improve architectural thinking, and prepare for industry level responsibilities.<br><br>My goal is to grow into a well rounded engineer by consistently refining my skills and delivering solutions that are reliable, relevant, and impactful.</p>
-<br>
+<table border="0">
+  <tr>
+    <td width="70%" style="border: none; vertical-align: middle;">
+      <p>
+        I am a Computer Science student focused on building practical, logic driven solutions that address real world problems. My work emphasizes strong fundamentals, clean system design, and meaningful user experiences.<br><br>I enjoy developing projects that integrate problem solving, structured thinking, and applied concepts into complete working systems. My current focus is on creating a small set of high quality projects that demonstrate depth of understanding, real use cases, and thoughtful implementation.<br><br>Alongside project development, I am actively upskilling myself to strengthen my technical foundation, improve architectural thinking, and prepare for industry level responsibilities.<br><br>My goal is to grow into a well rounded engineer by consistently refining my skills and delivering solutions that are reliable, relevant, and impactful.
+      </p>
+    </td>
+    <td width="30%" style="border: none; vertical-align: middle;" align="center">
+      <img src="https://github.com/Solanki-Jatin/Solanki-Jatin/raw/main/trophy_selfie" 
+           width="260" 
+           style="border-radius: 20px; display: block; margin: auto;">
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
 ```js
 const Jatin = {
