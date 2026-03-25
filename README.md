@@ -27,7 +27,7 @@
 </table>
 
 <br>
-<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR4eXhzaHgyNW9jczUzNGZpNDNucDlidjE2eW9jZ211MWNqYmluZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="540"/>
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR4eXhzaHgyNW9jczUzNGZpNDNucDlidjE2eW9jZ211MWNqYmluZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="460"/>
 
 ```js
 const Jatin = {
