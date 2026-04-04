@@ -127,4 +127,5 @@ const Jatin = {
 <br><br>
 
 <h2 align="center"><i>"If you find a bug, consider it a gift for your debugging practice. You're welcome."</i></h2>
-<h2 align="center">“Made With ❤️ by Jatin⚽”</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Made%20With%20❤️%20by%20Jatin⚽!&fontSize=40&fontColor=fff&animation=twinkling" />
+
